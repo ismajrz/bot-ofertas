@@ -1,0 +1,9 @@
+# Estado del bot (en GitHub Actions se guarda en la caché)
+estado.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
